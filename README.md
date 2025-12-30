@@ -1,6 +1,6 @@
 # GitHub Repo Search
 
-This project is a simple Next.js app that lets you search for GitHub repositories by leveraging GitHub’s public Search API. It was originally built as part of a coding test for bitFlyer and showcases how to build a modern, type‑safe web application using React, TypeScript, and the Next.js App Router (in the `src` directory).
+This project is a simple Next.js app that lets you search for GitHub repositories by leveraging GitHub’s public Search API. It was originally built to showcases how to build a modern, type‑safe web application using React, TypeScript, and the Next.js App Router (in the `src` directory).
 
 ## Features
 
